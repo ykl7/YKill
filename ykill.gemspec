@@ -5,12 +5,12 @@ require 'ykill/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ykill"
-  spec.version       = "0.0.0"
+  spec.version       = "0.0.1"
   spec.authors       = ["ykl7"]
   spec.email         = ["yklal95@gmail.com"]
 
-  spec.summary       = "Put system to sleep"
-  spec.description   = "System goes to sleep for 5 minutes when gem runs"
+  spec.summary       = "Suspend"
+  spec.description   = "Suspend processes for 5 minutes when executed"
   spec.homepage      = "https://github.com/ykl7/YKill"
   spec.license       = "MIT"
 
